@@ -3,15 +3,15 @@
 A Java CLI application for symmetric encryption, asymmetric encryption, and hash functions.
 
 ## Team Members
-| # | Name | Branch | Feature |
-|---|------|--------|---------|
-| 1 | [Nhóm trưởng] | `main` | Merge code, README, report |
-| 2 | [Thành viên 1] | `feature/main-menu` | Main menu (CLI) |
-| 3 | [Thành viên 2] | `feature/des-aes` | DES (ECB/CBC), AES-128/256 (CBC) |
-| 4 | [Thành viên 3] | `feature/rsa` | RSA key generation, encrypt, decrypt |
-| 5 | [Thành viên 4] | `feature/hash` | MD5, SHA-256 |
+| # | Name                     | Branch | Feature |
+|---|--------------------------|--------|---------|
+| 1 | [Khang Vĩnh nhóm trưởng] | `main` | Merge code, README, report |
+| 2 | [Vĩnh Khang]             | `feature/main-menu` | Main menu (CLI) |
+| 3 | [Tuấn Kiệt]              | `feature/des-aes` | DES (ECB/CBC), AES-128/256 (CBC) |
+| 4 | [Bảo Khanh]              | `feature/rsa` | RSA key generation, encrypt, decrypt |
+| 5 | [Hoàng Long]             | `feature/hash` | MD5, SHA-256 |
 
-## Libraries Used
+## Libraries Used 
 - `javax.crypto` — Symmetric encryption (DES, 3DES, AES)
 - `java.security` — RSA, MessageDigest (MD5, SHA-256)
 - All libraries are part of the **Java Standard Library** — no external dependencies needed.
